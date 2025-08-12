@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="[https://github.com/user-attachments/assets/bd17a63a-bcc1-4b7e-9933-11f1bc05ffb1](https://github.com/Fakiha-soha/Project_ClassificationLogs/blob/main/image.png?raw=true)" /># 📌 Log Classification with a Hybrid Framework  
+
+# 📌 Log Classification with a Hybrid Framework  
 
 This project implements a **hybrid log classification system** that combines three complementary approaches to handle different types of log patterns.  
 The framework ensures flexibility and robustness in processing predictable, complex, and poorly-labeled log data.
