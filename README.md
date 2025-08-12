@@ -29,8 +29,6 @@ The framework ensures flexibility and robustness in processing predictable, comp
 ```
 project/
 │
-├── __pycache__/                 # Python cache files
-│
 ├── classify.py                  # Script for running classification
 ├── main.py                      # Main execution script
 ├── processor_bert.py            # BERT-based classification module
